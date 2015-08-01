@@ -68,7 +68,7 @@ element = document["element_id"]
 ```
 
 ../..
-Using Python in an HTML page
+Brython HTML page Anatomy
 ============================
 
 <div style="position:absolute;top:20%;left:5%;">
@@ -119,10 +119,9 @@ the function `brython()` :
 Python syntax coverage
 ======================
 
-**Brython aims to be 100% compliance with Python**
+**Brython aims to be 100% compliant with Python 3**
 
-- no place for a new language somewhere between Python and Javascript
-- align on Python Language Reference (Python 3 syntax)
+- aligns on Python Language Reference (Python 3 syntax)
 
 @pause
 
